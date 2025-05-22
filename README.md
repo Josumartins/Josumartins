@@ -1,10 +1,13 @@
-## 👋 Hi, I’m Josue
-- :computer: Computer Cience student at UFSCar
-- 👀 I am interested in learning various types of programming languages, including C/C++, Python and also delving deeper into the various topics related to computer science.
-- 🌱 I'm currently learning about basic topics in computer science.
-- 💞️ I try to collaborate on any type of project that I can contribute, even if it's as little as possible.
-- 😄 Pronouns: He/Him
-- :basketball: I play basketball incredibly well and I always wake up before the alarm goes off.
+# 👋 Hi, I’m Josue
+
+## 💡 About Me
+
+- 💻 Computer Science student at **UFSCar**
+- 👀 Passionate about learning various programming languages like **C/C++**, **Python**, and diving into core **computer science concepts**
+- 🌱 Currently exploring foundational CS topics
+- 🤝 Always open to collaborating on projects — even small contributions matter!
+- 😄 Pronouns: **He/Him**
+- 🏀 Skilled basketball player (and yes, I always wake up before the alarm ⏰)
 
 
 <!---
