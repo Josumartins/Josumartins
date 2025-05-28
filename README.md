@@ -1,20 +1,43 @@
-# 👋 Hi, I’m Josue
+# 👋 Hi, I’m Josue Martins  
+**Computer Science Student | Linux & Low-Level Programming Enthusiast**  
 
-## 💡 About Me
+📍 São Carlos, SP | 📧 josuemartins@estudante.ufscar.br  
+🔗 [LinkedIn](https://linkedin.com/in/jjosuemartins) | [GitHub](https://github.com/Josumartins)  
 
-- 💻 Computer Science student at **UFSCar**
-- 👀 Passionate about learning various programming languages like **C/C++**, **Python**, and diving into core **computer science concepts**
-- 🌱 Currently exploring foundational CS topics
-- 🤝 Always open to collaborating on projects — even small contributions matter!
-- 😄 Pronouns: **He/Him**
-- 🏀 Skilled basketball player (and yes, I always wake up before the alarm ⏰)
+---
 
+## **🚀 About Me**  
+- 🎓 **Computer Science** undergrad at **UFSCar** (2021–2026).  
+- 🐧 **Linux Daily Driver**: Pop!_OS user, exploring kernel concepts and shell scripting.  
+- 💡 **Passionate** about understanding how things work under the hood (OS, compilers, embedded systems).  
+- 🌱 **Currently learning**: Systems programming in **C**, Python automation, and Rust basics.  
+- 🤝 **Open to collaborate** on beginner-friendly open-source projects or study groups!  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*(Fun fact: 🏀 Former basketball player – learned discipline and teamwork on the court!)*  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Josumartins/Josumartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+---
+
+## **🛠️ Tech Stack**  
+### **Languages**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+### **Tools & OS**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)  
+
+### **Currently Exploring**  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kernel](https://img.shields.io/badge/Linux_Kernel-1E90FF?style=for-the-badge&logo=linux&logoColor=white)  
+
+---
+
+## **📌 Next Steps**  
+1. **Building my first open-source contributions** (documentation fixes, small bugs).  
+2. **Developing a personal project** (e.g., a CLI tool in C/Python).  
+3. **Deepening my Linux internals knowledge** (syscalls, process management).  
+
+*(Feel free to reach out for study collaborations or mentorship opportunities!)*  
+
+--- 
+
+<!--- 
+🔎 **Fun fact**: I can recite the Linux filesystem hierarchy from memory! *(Just kidding... or am I?)*  
 --->
