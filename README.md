@@ -8,7 +8,7 @@
 
 ## **🚀 About Me**  
 - 🎓 **Computer Science** undergrad at **UFSCar** (2021–2026).  
-- 🐧 **Linux Daily Driver**: Pop!_OS user, exploring kernel concepts and shell scripting.  
+- 🐧 **Linux Daily Driver**: Linux user, exploring kernel concepts and shell scripting.  
 - 💡 **Passionate** about understanding how things work under the hood (OS, compilers, embedded systems).  
 - 🌱 **Currently learning**: Systems programming in **C**, Python automation, and Rust basics.  
 - 🤝 **Open to collaborate** on beginner-friendly open-source projects or study groups!  
