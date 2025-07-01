@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Josue Martins  
 
 💬 Systems programming enthusiast with a passion for open source, Linux, and low-level tech.  
-Always hacking with C, Vim, and curiosity.
+Always  with C, Vim, and curiosity.
 
 **Computer Science Student | Linux & Low-Level Programming Enthusiast**  
 
