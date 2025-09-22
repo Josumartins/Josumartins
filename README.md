@@ -15,7 +15,7 @@ Always  with C, Vim, and curiosity.
 - 🎓 Computer Science undergrad at [UFSCar](https://www.ufscar.br/) (2021–2026).  
 - 🐧 Linux Daily Driver: Linux user, exploring kernel concepts and shell scripting.  
 - 💡 Passionate about understanding how things work under the hood (OS, compilers, embedded systems).  
-- 🌱 Currently learning systems programming in **C**, Python automation, and Rust basics.  
+- 🌱 Currently learning systems programming in **C**, Python automation.  
 - 🤝 Open to collaborate on beginner-friendly open-source projects or study groups!  
 
 *(Fun fact: 🏀 Former basketball player – learned discipline and teamwork on the court!)*  
