@@ -15,9 +15,4 @@ Computer Science student at UFSCar interested in Linux, systems programming, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
 
-## Links
-
-- GitHub: https://github.com/Josumartins
-- LinkedIn: https://linkedin.com/in/jjosuemartins
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Josumartins.Josumartins)
